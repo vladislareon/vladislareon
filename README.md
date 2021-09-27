@@ -1,6 +1,6 @@
-### Hello, I am a student of Higher School of Economics.
-## :computer: Faculty of Computer Science
-## :infinity: Applied Mathematics and Informatics
+## Hello, I am a student of Higher School of Economics.
+### :computer: Faculty of Computer Science
+### Applied Mathematics and Informatics
 
 <!--
 **vladislareon/vladislareon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
