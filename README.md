@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I am a student of Higher School of Economics.
 
 <!--
 **vladislareon/vladislareon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
