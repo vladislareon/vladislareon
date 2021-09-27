@@ -1,4 +1,4 @@
-## Hello, I am a student of Higher School of Economics.
+## Hello, I am a student at the Higher School of Economics.
 ### :computer: Faculty of Computer Science
 ### Applied Mathematics and Informatics
 
